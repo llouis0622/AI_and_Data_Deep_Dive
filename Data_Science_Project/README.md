@@ -70,3 +70,57 @@
 
 - 트리 알고리즘 분석하기
 - 정확도 예측하기
+
+---
+
+# 2. EDA를 통해 데이터 탐색하기
+
+# 1. 당뇨병 데이터셋 미리보기
+
+- Pregnancies : 임신 횟수
+- Glucose : 2시간 동안의 경구 포도당 내성 검사에서 혈장 포도당 농도
+- BloodPressure : 이완기 혈압 (mm Hg)
+- SkinThickness : 삼두근 피부 주름 두께 (mm), 체지방을 추정하는데 사용되는 값
+- Insulin : 2시간 혈청 인슐린 (mu U / ml)
+- BMI : 체질량 지수 (체중kg / 키(m)^2)
+- DiabetesPedigreeFunction : 당뇨병 혈통 기능
+- Age : 나이
+- Outcome : 768개 중에 268개의 결과 클래스 변수(0 또는 1)는 1이고 나머지는 0입니다.
+
+# 2. 결측치 보기
+
+- 결측치 처리 및 시각화
+
+# 3. 훈련과 예측에 사용할 정답값을 시각화로 보기
+
+- 정답값
+- countplot
+
+# 4. 두 개의 변수를 정답값에 따라 시각화 해보기
+
+- barplot
+- boxplot
+- violinplot
+- swarmplot
+
+# 5. 수치형 변수의 분포를 정답값에 따라 시각화 해보기
+
+- distplot
+
+# 6. 서브플롯으로 모든 변수 한 번에 시각화 하기
+
+- subplot
+- distplot
+
+# 7. 시각화를 통한 변수간의 차이 이해하기
+
+- regplot
+- lmplot
+- pairplot
+- PairGrid
+
+# 8. 피처엔지니어링을 위한 상관 계수 분석하기
+
+- corr()
+- heatmap()
+- lmplot()
