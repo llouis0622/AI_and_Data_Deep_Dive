@@ -20,6 +20,30 @@
 
 ### 1. Tensorflow Speech Recognition Challenge
 
+## 5. Regression : Tabular Data
+
+### 1. New York City Taxi Trip Duration
+
+### 2. Zilow Prize : Zilow's Home Value Prediction
+
+## 6. Object Segmentation : Deep Learning
+
+### 1. 2018 Data Science Bowl
+
+## 7. Natural Language Processing : Classification, Regression
+
+### 1. Spooky Author Identification
+
+### 2. Mercari Price Suggestion Challenge
+
+### 3. Toxic Comment Classification Challenge
+
+## 8. Other Dataset : Anomaly Detection, Visualization
+
+### 1. Credit Card Fraud Detection
+
+### 2. Kaggle Machine Learning & Data Science Survey 2017
+
 ```python
 # Mac Use Korean
 from matplotlib import rc
