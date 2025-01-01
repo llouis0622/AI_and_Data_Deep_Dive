@@ -1,0 +1,9 @@
+- pyenv 사용
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- sklearn
+- tensorflow
+- keras
+- jupyter
